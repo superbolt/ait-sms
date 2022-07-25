@@ -1,0 +1,24 @@
+{
+  "name": "sms-server-template",
+  "description": "SMS Server Template is a generic open-source sms server that has a simple yet powerful design to connect your business with third-party sms service providers (like Twilio, Amazon SNS).",
+  "website": "https://opentemplatehub.com/product/server/sms-server-template",
+  "repository": "https://github.com/open-template-hub/sms-server-template",
+  "logo": "https://raw.githubusercontent.com/open-template-hub/open-template-hub.github.io/master/assets/logo/server/sms-server-logo.png",
+  "keywords": [
+    "sms",
+    "sms-server",
+    "sms-provider",
+    "download",
+    "upload",
+    "server",
+    "template",
+    "nodejs",
+    "typescript",
+    "mongodb",
+    "mongoose",
+    "aws",
+    "amazon-sns",
+    "twilio",
+    "open template hub"
+  ]
+}
